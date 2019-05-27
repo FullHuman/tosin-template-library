@@ -23,20 +23,8 @@
     "type": "git",
     "url": "git+https://github.com/{% repository %}.git"
   },
-  "keywords": [
-    "github",
-    "sponsors",
-    "opencollective",
-    "community",
-    "bridge",
-    "ko-fi",
-    "tidelift",
-    "donate",
-    "donation",
-    "fundoss",
-    "npm"
-  ],
-  "author": "Ffloriel",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/{% repository %}/issues"
@@ -51,7 +39,8 @@
     "prettier": "^1.17.1",
     "rollup": "^1.12.3",
     "rollup-plugin-node-builtins": "^2.1.2",
-    "rollup-plugin-node-resolve": "^5.0.0"
+    "rollup-plugin-node-resolve": "^5.0.0",
+    "vuepress": "^0.14.11"
   },
   "dependencies": {},
   "engines": {

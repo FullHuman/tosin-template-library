@@ -1,4 +1,4 @@
-# Github Sponsors
+# {% human project name %}
 
 [![Build Status](https://travis-ci.org/{% repository %}.svg?branch=master)]()
 [![CircleCi](https://circleci.com/gh/{% repository %}/tree/master.svg?style=shield)]()
